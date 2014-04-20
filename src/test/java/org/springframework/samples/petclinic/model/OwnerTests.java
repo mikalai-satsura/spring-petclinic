@@ -15,8 +15,6 @@
  */
 package org.springframework.samples.petclinic.model;
      
-     
-     
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNull;
 
