@@ -22,6 +22,7 @@ import org.junit.Test;
 import org.springframework.transaction.annotation.Transactional;
 
 
+
 /**
  * JUnit test for the {@link Owner} class.
  *
